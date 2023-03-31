@@ -1,4 +1,6 @@
 all:
+  hosts:
+    44.204.94.107:
   children:
     webservers:
       hosts:
