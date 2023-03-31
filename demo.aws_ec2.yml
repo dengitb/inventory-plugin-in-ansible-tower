@@ -1,6 +1,7 @@
 all:
-    webservers:
-      hosts:
-        44.204.94.107:
+  hosts:
+    44.204.94.107:
+    
+        
     
 
