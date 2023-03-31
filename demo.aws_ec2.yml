@@ -1,6 +1,6 @@
 all:
   hosts:
-    44.204.94.107:
+    mail.example.com:
   children:
     webservers:
       hosts:
