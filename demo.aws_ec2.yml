@@ -4,7 +4,13 @@ all:
   children:
     webservers:
       hosts:
-    44.204.94.107:
+        foo.example.com:
+        bar.example.com:
+    dbservers:
+      hosts:
+        one.example.com:
+        two.example.com:
+        three.example.com:
     
         
     
